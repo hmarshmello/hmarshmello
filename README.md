@@ -26,8 +26,8 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-shrivastava-5452951a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-shrivastava-5452951a7/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pillarofflame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hs_harshsrivastava/?hl=en" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hmarshmello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_sri2307" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pillarofflame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hmarshmello" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/acae045f99b2a02840e23613172dc98c.png" alt="harsh_sri2307" height="30" width="40" /></a>
 <a href="https://leetcode.com/hmarshmello24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hsharshu" height="30" width="40" /></a>
 <a href="https://github.com/hmarshmello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hmarshmello" height="30" width="40" /></a>
 </p>
