@@ -32,7 +32,7 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarshmello&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amberseth&" alt="amberseth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmarshmello&" alt="hmarshmello" /></p>
 
 <p align="center"> 
   Visitor count<br>
