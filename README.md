@@ -10,4 +10,13 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmarshmello&show_icons=true&theme=tokyonight&hide=stars,prs)
 
+
+## Things I am passionate about
+- Data Science :robot:
+- Analysis :computer:
+
+## Get in touch :coffee:
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/harsh-shrivastava-5452951a7)
+- And of course GitHub you're already on (Recursion).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarshmello&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
