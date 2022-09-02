@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Harsh
+#### I am Student || Data Analyst
+![I am Student || Data Analyst](https://media-exp1.licdn.com/dms/image/C4E16AQHYiVdstYdxRg/profile-displaybackgroundimage-shrink_350_1400/0/1619170856260?e=1667433600&v=beta&t=1h2jQTy1TNdBh3ZzGX9kpBeNecUKwIFGMb4cZ-JRc_Q)
 
-<!--
-**hmarshmello/hmarshmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently enrolled as a student of 3nd year at the SRMIST, KTR, Chennai, India. Pursuing an undergraduate degree in Computer Science with Specialization in Big Data.
 
-Here are some ideas to get you started:
+Skilled in Data Analytics, SQL, Python, Data Visualisation. I am currently enhancing myself towards Machine Learning and AI-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio / CodeBlocks
+
+
+
+
