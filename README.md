@@ -35,5 +35,5 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hmarsmello/count.svg" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amberseth&" alt="amberseth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmarshmello&" alt="hmarshmello" /></p>
 
