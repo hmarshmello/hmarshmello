@@ -42,7 +42,8 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://ctovision.com/wp-content/uploads/tableau-1.jpg" alt="tableau" width="40" height="40"/> </a>  
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://ctovision.com/wp-content/uploads/tableau-1.jpg" alt="tableau" width="40" height="40"/> </a> 
+<a href="https://ipython.org/notebook.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="tableau" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/analytics/bigquery
 " target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/5abc6c4b0a243a2dc939ee6e/5fdb995550a781d7c0c4ec5f_google-bigquery-logo-1.svg" alt="tableau" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png" alt="mysql" width="40" height="40"/> </a>  
