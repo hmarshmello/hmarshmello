@@ -57,8 +57,8 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarshmello&langs_count=10&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hmarshmello&theme=blueberry" alt="hmarshmello" /></p>
+<a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarshmello&langs_count=10&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats) </a>
+<a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmarshmello&theme=blueberry" alt="hmarshmello" /></a></p>
 
 <p align="center"> 
   Visitor count<br>
