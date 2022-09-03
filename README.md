@@ -17,7 +17,7 @@ Skilled in Data Analytics, SQL, Python, Data Visualisation. I am currently enhan
 
 Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio / CodeBlocks
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmarshmello&show_icons=true&theme=tokyonight)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmarshmello&show_icons=true&hide=prs&theme=tokyonight)
 
 
 ## Things I am passionate about
