@@ -32,6 +32,7 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 <a href="https://www.codechef.com/users/hmarshmello" target="_blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/acae045f99b2a02840e23613172dc98c.png" alt="harsh_sri2307" height="30" width="40" /></a>
 <a href="https://leetcode.com/hmarshmello24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hsharshu" height="30" width="40" /></a>
 <a href="https://github.com/hmarshmello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hmarshmello" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hmarshmello" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="hmarshmello" height="30" width="40" /></a>
 </p>
 - Official Contact: hs4220@srmist.edu.in  or  harshshrivastavagithub@gmail.com
 
