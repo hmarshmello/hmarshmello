@@ -57,7 +57,7 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarshmello&langs_count=11&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarshmello&langs_count=10 &theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) </a>
 <a> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hmarshmello&theme=blueberry" alt="hmarshmello" /></a>
 
 <p align="center"> 
