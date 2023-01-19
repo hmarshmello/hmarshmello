@@ -49,7 +49,7 @@ Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio 
 <a href="https://cloud.google.com/analytics/bigquery
 " target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/5abc6c4b0a243a2dc939ee6e/5fdb995550a781d7c0c4ec5f_google-bigquery-logo-1.svg" alt="tableau" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/11978772/40430854-46e62868-5e63-11e8-9fac-920ee4ef5237.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://office.live.com/start/excel.aspx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" alt="hmarshmello" height="40" width="40" /></a>
+<a href="https://office.live.com/start/excel.aspx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" alt="hmarshmello" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://p7.hiclipart.com/preview/185/866/361/html-web-design-scalable-vector-graphics-world-wide-web-markup-language-html5-icon-hd.jpg" alt="hmarshmello" height="40" width="40" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
