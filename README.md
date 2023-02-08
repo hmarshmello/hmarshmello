@@ -15,7 +15,7 @@ I am currently enrolled as a student of 3nd year at the SRMIST, KTR, Chennai, In
 
 Skilled in Data Analytics, SQL, Python, Data Visualisation. I am currently enhancing myself towards Machine Learning and AI-based applications.
 
-Skills: C++ / C / Python / R / Tablueu / MySQL / Pycharm / DatasSpell / RStudio / CodeBlocks
+Skills: C++ / C / Python / MySQL / R / Tablueu / HTML / CSS / JS
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmarshmello&show_icons=true&theme=tokyonight&hide=prs)
 
