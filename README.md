@@ -3,9 +3,6 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
-![I am Student || Data Analyst](https://media-exp1.licdn.com/dms/image/C4E16AQHYiVdstYdxRg/profile-displaybackgroundimage-shrink_350_1400/0/1619170856260?e=1667433600&v=beta&t=1h2jQTy1TNdBh3ZzGX9kpBeNecUKwIFGMb4cZ-JRc_Q)
-
-
 <div align ="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+,+I'm+Harsh+Shrivastava;Data+Analyst;Data+Scientist;Full+Stack+Developer;Problem+Solver;Software+Developer;Freelancer;Open-Source+Contributor;Enthusiast" alt="Headline" /> 
 </div> 
