@@ -9,7 +9,7 @@
 
 I am currently enrolled as a student of 3nd year at the SRMIST, KTR, Chennai, India. Pursuing an undergraduate degree in Computer Science with Specialization in Big Data.
 
-<h3>Here's the link to my Portfolio -><a href="hthttps://harshshrivastava.netlify.app/" target="_blank">Portfolio</a> </h3>
+<h3>Here's the link to my Portfolio -><a href="https://harshshrivastava.netlify.app/" target="_blank">Portfolio</a> </h3>
 
 Skilled in Data Analytics, SQL, Python, Data Visualisation. I am currently enhancing myself towards Machine Learning and AI-based applications.
 
