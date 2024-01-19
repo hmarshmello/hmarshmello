@@ -7,7 +7,7 @@
 </div> 
 
 
-I am currently enrolled as a student of 3nd year at the SRMIST, KTR, Chennai, India. Pursuing an undergraduate degree in Computer Science with Specialization in Big Data.
+I am currently enrolled as a student of 4th year at the SRM University, Chennai. Pursuing an undergraduate degree in Computer Science with Specialization in Big Data.
 
 <h3>Here's the link to my Portfolio -><a href="https://harshshrivastava.netlify.app/" target="_blank">Portfolio</a> </h3>
 
