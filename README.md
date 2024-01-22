@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 <div align ="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+,+I'm+Harsh+Shrivastava;Data+Analyst;Data+Scientist;Full+Stack+Developer;Problem+Solver;Software+Developer;Freelancer;Open-Source+Contributor;Enthusiast" alt="Headline" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+,+I'm+Harsh+Shrivastava;Data+Analyst;Open-Source+Contributor" alt="Headline" /> 
 </div> 
 
 
