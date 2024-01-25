@@ -2,7 +2,7 @@
 
 I'm a 2024 UnderGrad Student of Computer Science with Big Data. Skilled in Data Analytics and Data Visualisation. <BR>
 
-I really enhoy connecting with more data analysts around the world, with whom we all can grow as a community and share our skills, experience and personal journey.
+I really enjoy connecting with more data analysts around the world, with whom we all can grow as a community and share our skills, experience and personal journey.
 
 #### Things I am passionate about
 - Visualization 📊
