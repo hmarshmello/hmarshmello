@@ -9,7 +9,7 @@ I really enjoy connecting with more data analysts around the world, with whom we
 - Analysis :computer:
 - Data ℹ️
 
-#### Here's the link to my Portfolio -> [Portfolio]([https://www.youtube.com/@datawithmo](https://harshshrivastava.netlify.app/))
+#### Here's the link to my Portfolio -> [Portfolio](https://harshshrivastava.netlify.app/)
 
 Connect with me ➡︎ shrivastavaharsh2024@gmail.com <br>
 Instagram ➡︎ [@pillarofflame](https://www.instagram.com/pillarofflame) <br>
